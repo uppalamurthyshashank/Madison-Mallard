@@ -1,0 +1,175 @@
+﻿SI No ,Item Name,Price,Restaurent Name,Dietary Information
+1,Seagrams JMH,6.99,Beer Here Bottom,"NF, DF, GF, VN"
+2,OBBC Commuter,6.99,Beer Here Bottom,VN
+3,Posoti Tangerine IPA,6.99,Beer Here Bottom,"NF,GF"
+4,Bud Zero NA,6.99,Beer Here Bottom,"NF,DF,GF,VN,VG"
+5,Bells Two Hearted,6.99,Beer Here Bottom,"NF,DF"
+6,Blakes Triple Jam,6.99,Beer Here Bottom,"NF,DF "
+7,Bells Oberon,6.99,Beer Here Bottom,NF
+8,Lil Louie,6.99,Beer Here Bottom,VG
+9,Spindrift Blood Orange,6.99,Beer Here Bottom,"VG,NF,DF"
+10,Gatorade,3.99,Beer Here Bottom,VN
+11,Bottled Water,4.99,Beer Here Bottom,
+12,Michelob Ultra,7.99,Beer Here Bottom,"VG,NF  "
+13,Hoop Tea,7.99,Beer Here Bottom,NF
+14,Potosi Varsity,7.99,Beer Here Bottom,VG
+15,Labatt Blue Light,7.99,Beer Here Bottom,GF
+16,"Wollersheim Great Bam-Vino, 375mL",16.99,Beer Here Bottom,
+17,"Wollersheim Wine, 187mL",8.99,Beer Here Bottom,
+18,Bud Light,5.99,Beer Here Bottom,
+19,Busch Light,5.99,Beer Here Bottom,
+20,Bud Light Seltzer Black Cherry,5.99,Beer Here Bottom,
+21,Kona Big Wave,5.99,Beer Here Bottom,GF
+22,Summer Shandy,5.99,Beer Here Bottom,"NF,DF,GF"
+23,"Modelo, 24oz",16.99,Beer Here Bottom,
+24,"Twisted Tea, 24oz",8.99,Beer Here Bottom,
+25,"Bud Zero NA, 12oz",2.99,Backstop Brews,
+26,Bud Light,3.99,Backstop Brews,"NF,DF"
+27,Kona Big Wave,5.99,Backstop Brews,"NF,GF,DF"
+28,Blakeâ€™s Triple Jam,5.99,Backstop Brews,"VG,DF,DF,GF"
+29,Bell's Two Hearted,5.99,Backstop Brews,"DF,GF"
+30,Potosi Varsity Golden,4.99,Backstop Brews,"VG,NF,GF"
+31,OBBC Commuter,5.99,Backstop Brews,"NF,GF,DF"
+32,OBBC Ninja Dust,5.99,Backstop Brews,VN
+33,Broken Bat Wendy,5.99,Backstop Brews,"VN,DF"
+34,Labatt Blue Light,4.99,Backstop Brews,
+35,Hopsecutioner,5.99,Backstop Brews,"NF,DF,GF"
+36,Summer Shandy,5.99,Backstop Brews,"NF,GF,DF"
+37,Badger Club,4.99,Backstop Brews,NF
+38,"Old Fashioned Slushy, 9oz",8.99,Backstop Brews,
+39,"Das Duck Boot (First Purchase), 67oz",41.99,Backstop Brews,
+40,Peanuts,3.99,Snack Attack,"VG,GF,DF"
+41,Cotton Candy,4.99,Snack Attack,"GF,VG,DF"
+42,Popcorn,3.99,Snack Attack,"DF,VN,VG"
+43,Beef Stick,3.49,Snack Attack,"GF,DF,NF,VN"
+44,Starburst Cotton Candy,5.99,Snack Attack,"GF,VG,DF"
+45,Big League Chew,3.99,Snack Attack,"NF,GF"
+46,Confetti Mix Popcorn,4.99,Snack Attack,"NF,DF"
+47,Cracker Jacks,4.99,Snack Attack,"GF,DF "
+48,Bottled Water,2.99,Snack Attack,
+49,Gatorade,3.99,Snack Attack,
+50,Canned Pepsi Products,4.99,Snack Attack,
+51,Cotton Candy,2.49,Madison Mallards Candy Shop,"NF, DF, GF, VN"
+52,Flavored Cotton Candy,4.49,Madison Mallards Candy Shop,"DF, GF, VN"
+53,Giant Freeze Pop,2.99,Madison Mallards Candy Shop,"DF, GF, VN"
+54,Chips Galore Cookie Sandwich,2.99,Madison Mallards Candy Shop,"NF, DF, GF,"
+55,Ice Cream Sandwich,4.99,Madison Mallards Candy Shop,"NF, DF, VN"
+56,Crunch Bar,5.99,Madison Mallards Candy Shop,"NF, DF, GF, VN, VG"
+57,Bottled Water,3.99,Madison Mallards Candy Shop,
+58,Gatorade (Cool Blue or Fruit Punch),4.99,Madison Mallards Candy Shop,NF
+59,Canned Pepsi Products,2.99,Madison Mallards Candy Shop,"NF, DF, GF, VN, VG"
+60,Big League Chew,3.99,Madison Mallards Candy Shop,DF
+61,Giant Gummy Bear,9.49,Madison Mallards Candy Shop,"DF, GF, VN"
+62,Rock Candy Assorted,2.49,Madison Mallards Candy Shop,"NF, DF, VN"
+63,Paintball Pops,3.99,Madison Mallards Candy Shop,"NF, DF, VN"
+64,Confetti Popcorn,4.99,Madison Mallards Candy Shop,"NF, DF, VN"
+65,Cracker Jacks,4.99,Madison Mallards Candy Shop,"NF, DF, VN"
+66,Peanuts,3.99,Madison Mallards Candy Shop,"NF, DF, VN"
+67,Bottled Water,3.99,Take It Cheesy,"NF, DF, GF, VN, VG"
+68,Gatorade,4.99,Take It Cheesy,"DF, GF, VN"
+69,Canned Pepsi Products,2.99,Take It Cheesy,"NF, DF, VN"
+70,Walking Taco,8.99,Take It Cheesy,"NF, DF, VN"
+71,Bases Loaded Nachos,7.99,Take It Cheesy,"NF, DF, GF, VN, VG"
+72,Ballpark Nachos,6.49,Take It Cheesy,DF
+73,Michelob Ultra,4.99,Hangover,"NF, DF, GF, VN, VG"
+74,Busch Light,5.99,Hangover,"NF, DF, GF, VN, VG"
+75,Kona Big Wave,3.99,Hangover,"NF,DF,GF"
+76,Bell's Oberon,6.99,Hangover,"NF, DF, GF, VN, VG"
+77,Elysian Space Dust IPA,5.99,Hangover,"NF, DF, GF, VN, VG"
+78,Golden Road Mango Cart,4.99,Hangover,"NF, DF, VN"
+79,Labatt Blue Light,3.05,Hangover,"NF, DF, VN"
+80,Potosi Cave Ale,4.65,Hangover,DF
+81,Potosi Tangerine IPA,7.88,Hangover,"NF, DF, GF, VN, VG"
+82,Potosi Varsity Golden,5.76,Hangover,"NF, DF, GF, VN, VG"
+83,OBBC Ninja Dust,8.99,Hangover,"NF, DF, VN"
+84,OBBC Commuter,6.99,Hangover,"NF, DF, VN"
+85,Blake's Triple Jam,7.05,Hangover,"NF, DF, GF, VN, VG"
+86,Vintage Bee's Knees,9.99,Hangover,DF
+87,O'so Haze Positive IPA,4.65,Hangover,DF
+88,Broken Bat Wendy,4.5,Hangover,"NF, DF, VN"
+89,Hazy Lil Thing,3.65,Hangover,"NF, DF, GF, VN, VG"
+90,Hopsecutioner,2.5,Hangover,DF
+91,Summer Shandy,1.99,Hangover,"NF, DF, GF, VN, VG"
+92,Soft Serve Ice Cream in Novelty Helmet,5.49,Sweet Treats,NF
+93,Angel Food Cake Soft Serve in Large Novelty Helmet,28.99,Sweet Treats,"NF, DF"
+94,Lays Classic Potato Chips,1.99,TDS Short Stop,"NF, DF, GF, VN"
+94,Coleslaw,2.49,TDS Short Stop,"NF, DF, GF, VG"
+95,Potato Salad,2.49,TDS Short Stop,"NF, DF, GF, VG"
+96,All-Beef Hot Dog,4.49,TDS Short Stop,"NF, DF"
+97,Stoddard's Classic Bratwurst,5.99,TDS Short Stop,"NF, GF"
+98,Stoddard's Specialty Bratwurst,5.99,TDS Short Stop,GF
+99,Chicken Salad Sandwich,6.99,TDS Short Stop,"NF, GF"
+100,Cheeseburger,6.49,TDS Short Stop,"NF, DF, VN"
+101,Sweet Potato Veggie Burger,6.99,TDS Short Stop,"NF, DF, VN, VG"
+102,Bottled Water,2.99,TDS Short Stop,"NF, DF, GF, VN, VG"
+103,Canned Pepsi Products,3.99,TDS Short Stop,"NF, DF, GF, VN, VG"
+104,Bell's Two Hearted,6.99,Chicos,"NF, DF, GF, VG"
+105,Bell's Oberon,6.99,Chicos,"NF, DF, GF, VN, VG"
+106,Blake's Triple Jam,6.99,Chicos,"NF, GF"
+107,Hopsecutioner,5.99,Chicos,"NF, DF, VN, VG"
+108,Bottled Water,7.99,Chicos,GF
+109,Michelob Ultra,7.99,Chicos,"NF, DF, GF, VN, VG"
+110,Hoop Tea,7.99,Chicos,"NF, DF, GF, VG"
+111,Potosi Varsity,7.99,Chicos,GF
+112,Spindrift Blood Orange,7.99,Chicos,"NF, GF"
+113,Labatt Blue Light,3.99,Chicos,"NF, DF, GF, VG"
+114,Summer Shandy 24oz,11.99,Chicos,"NF, DF, GF, VN, VG"
+114,Twisted Tea 24oz,11.99,Chicos,"NF, DF, VN, VG"
+116,Modelo 24oz,11.99,Chicos,"NF, GF"
+117,Bud Light 25oz,11.99,Chicos,"NF, DF, GF, VG"
+118,Busch Light 25oz,11.99,Chicos,"NF, GF"
+119,Bud Light Seltzer Black Cherry 25oz,11.99,Chicos,"NF, DF, GF, VN, VG"
+120,Kona Big Wave 25oz,11.99,Chicos,"NF, DF, GF, VG"
+121,Seagrams JMH,7.99,Chicos,"NF, DF, VN, VG"
+122,All-Beef Hot Dog,3.99,DB,VG
+123,Chicken Salad,4.99,DB,VG
+124,Hamburger,4.99,DB, GF
+125,Cheeseburger,3.99,DB,"GF, VG"
+126,Stoddard's Classic Bratwurst,3.99,DB,VN
+127,Stoddard's Specialty Bratwurst,4.99,DB,VG
+128,Sweet Potato Veggie Patty,2.99,DB, VN
+129,Stoddard's Hopps Pulled Chicken,8.99,DB, GF
+130,BBQ Pulled Pork Sandwich,7.99,DB,VG
+131,Potato Salad,2.49,DB,"GF,VN"
+132,Coleslaw,4.49,DB,"NF, DF, GF, VN, VG"
+133,Sliced Watermelon,5.99,DB,"NF, DF, VN, VG"
+134,Bud light,5.99,DB,"NF, GF"
+135,Busch Light,6.99,DB,"NF, DF, GF, VN, VG"
+136,Kona Big Wave,6.49,DB,"NF, DF, GF, VG"
+137,Elysian Space Dust IPA,6.99,DB,"GF,VN"
+138,Golden Road Mango Cart,5.99,DB,"NF, DF, VN, VG"
+139,Labatt Blue Light,7.99,DB,"GF,VN"
+140,Potosi Cave Ale,7.99,DB,"NF, DF, GF, VG"
+141,Goose Island Bear Hug Hazy IPA,7.99,DB,"GF,VN"
+142,Potosi Tangerine IPA,11.99,DB,"NF, DF, VN, VG"
+143,Cheeseburger,6.49,Festival,"GF,VG"
+144,All-Beef Hot Dog,6.99,Festival,GF 
+145,French Fries,5.99,Festival,"NF,DF,GF,VG"
+146,Sweet Potato Veggie Burger,4.49,Festival,"VN,GF"
+147,Stoddard's Classic Bratwurst,10.49,Festival,GF
+148,Beer Battered Cheese Curds,5.49,Festival,"NF,VG"
+149,Canned Pepsi Products,2.99,Festival,"VN,GF"
+150,Bottled Water,3.99,Festival,"NF,VG"
+151,Gatorade,4.99,Festival,"NF, DF, VN, VG"
+152,Powdered Mini Donuts in Novelty Helmet (NF),5.99,Dinger Donuts,"NF, DF, GF, VN, VG"
+153,Cinnamon Sugar Mini Donuts in Novelty Helmet (NF),5.99,Dinger Donuts,"NF,VG"
+154,Large Powdered Mini Donuts (NF),11.99,Dinger Donuts,GF
+155,Large Cinnamon Sugar Mini Donuts (NF),11.99,Dinger Donuts,"NF, DF, GF, VN, VG"
+156,Canned Pepsi Products,2.99,Dinger Donuts,"NF,VG"
+157,Bottled Water,3.99,Dinger Donuts,GF
+158,Gatorade (Cool Blue or Fruit Punch),4.99,Dinger Donuts,"NF, DF, GF, VN, VG"
+159,Wurst,5.99,Wurst Wiener,"NF,DF,GF,VG"
+160,Wiener,4.99,Wurst Wiener,"NF, DF, GF, VN, VG"
+161,Pretzel,3.99,Wurst Wiener,GF
+162,Soda,1.99,Wurst Wiener,"NF, DF, GF, VN, VG"
+163,Water,1.49,Wurst Wiener,"NF,DF,GF,VG"
+164,Boneless Chicken Wings (DF NF),8.99,Let's Get Fried,GF
+165,Beer Battered Cheese Curds (NF),10.49,Let's Get Fried,"NF,VG"
+166,Chicken Tender + Fries Novelty Cheese Tray (NF),12.99,Let's Get Fried,"NF,DF,GF,VG"
+167,French Fries (NF DF VN),5.49,Let's Get Fried,"NF, DF, GF, VN, VG"
+168,Duck Boot with French Fries Curds and Boneless Wings (NF),29.99,Let's Get Fried,GF
+169,Canned Pepsi Products,2.99,Let's Get Fried,"NF, DF, GF, VN, VG"
+170,Bottled Water,3.99,Let's Get Fried,"NF,DF,GF,VG"
+171,Gatorade (Cool Blue or Fruit Punch),4.99,Let's Get Fried,GF
+172,Boneless Wings,5.99,Fried Fury,GF
+173,French Fries,6.99,Fried Fury,"NF, DF, GF, VN, VG"
